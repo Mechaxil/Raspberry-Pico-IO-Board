@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Mechaxil Misc")(type "KiCad")(uri "X:/HardwareDev/KiCAD_library/KiCAD_Part_Library/Footprints/Mechaxil_Misc.pretty")(options "")(descr ""))
+)
