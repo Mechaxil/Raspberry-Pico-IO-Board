@@ -8611,6 +8611,18 @@
 			)
 		)
 	)
+	(gr_text "Licensed under CERN-OHL-W v2.0"
+		(at 154.15 126.3 0)
+		(layer "B.SilkS")
+		(uuid "5f5d3656-d7d4-4f9a-b2f8-e313aa33fc17")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify bottom mirror)
+		)
+	)
 	(gr_text "GP 6"
 		(at 130.8 92.907894 0)
 		(layer "B.SilkS" knockout)
@@ -9745,6 +9757,18 @@
 					(xy 171.914987 72.916243) (xy 171.998438 72.935659)
 				)
 			)
+		)
+	)
+	(gr_text "Mechaxil Approved Design"
+		(at 153.65 124.3 0)
+		(layer "B.SilkS")
+		(uuid "b28d497e-f78c-46c3-bd39-bf06f05ba1d7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify bottom mirror)
 		)
 	)
 	(gr_text "GND"

@@ -49,12 +49,12 @@ Condition:
 
 > [!IMPORTANT]
 > ## Trademark Notice
-> “Mechaxil” and the Mechaxil logo are trademarks of Mechaxil (Závoczki Attila e.v.).
+> "Mechaxil" and the Mechaxil logo are trademarks of Mechaxil (Závoczki Attila e.v.).
 > This license does not grant permission to use the Mechaxil name, logo, or branding for commercial or promotional purposes without prior written permission.
 
 > [!IMPORTANT]
 > ## Raspberry Pi Disclaimer
-> “Raspberry Pi” is a trademark of the Raspberry Pi Foundation.
+> "Raspberry Pi" is a trademark of the Raspberry Pi Foundation.
 > This project is not affiliated with, endorsed by, or sponsored by the Raspberry Pi Foundation or Raspberry Pi Ltd.
 > The term is used only for compatibility reference.
 
