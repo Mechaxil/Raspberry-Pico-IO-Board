@@ -40,7 +40,12 @@ This board is available for purchase via the Mechaxil webshop:
 - Standard 2.54 mm header spacing  
 - Compact form factor  
 
-## License
+## OSHW & License
+
+As of 2026 May 8th this project was certified by OSHWA
+<p align="center">
+  <img src="assets/certification-mark-HU000007-wide.png" alt="OSHW Mark"/>
+</p>
 
 This project is licensed under the CERN Open Hardware Licence Version 2 - Weakly Reciprocal (CERN-OHL-W).
 
