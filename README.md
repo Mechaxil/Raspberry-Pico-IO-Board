@@ -1,4 +1,4 @@
-# Mechaxil Pico IO Board v1.1
+# Mechaxil Pico IO Board - [Documentation website](https://docs.mechaxil.com/docs/products/pico-io-board)
 
 A clean, minimal Raspberry Pi Pico-compatible breakout board designed for easy access to all GPIO pins.
 
